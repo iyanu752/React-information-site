@@ -1,0 +1,28 @@
+
+body {
+  align-items: center;
+  background-color: blueviolet;
+
+}
+
+.App {
+  text-align: center;
+  background-color: grey;
+  width: 30%;
+  margin: auto;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  
+}
+
+.info-container {
+  text-align: center;
+  
+}
+
+
+.info-img {
+  width: 100%;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
